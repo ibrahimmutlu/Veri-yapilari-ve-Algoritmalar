@@ -17,7 +17,9 @@
 2-)  Big O --> O(n^2)
 
 3-) Average Case : 16,2
+
     Best Case : 22
+    
     Worst Case : 6
 
 4-) Dizi sıralandıktan sonra 18 sayısı average case kapsamına girer.    */
