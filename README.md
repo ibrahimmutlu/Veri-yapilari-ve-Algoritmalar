@@ -4,7 +4,7 @@
  
  /*
  
-1-)  [22,27,16,2,18,6]-> Insertion Sort
+1-) [22,27,16,2,18,6]-> Insertion Sort
 
   [2,27,16,22,18,6]  n-1
 
@@ -17,12 +17,11 @@
 2-)  Big O --> O(n^2)
 
 3-) Average Case : 16,2
-
     Best Case : 22
-    
     Worst Case : 6
 
-4-) Dizi sıralandıktan sonra 18 sayısı average case kapsamına girer.    */
+4-) Dizi sıralandıktan sonra 18 sayısı average case kapsamına girer. 
+*/
 
 /*
   [7,3,5,8,2,9,4,15,6]-->Insertion sorta göre ilk 4 adımı:
